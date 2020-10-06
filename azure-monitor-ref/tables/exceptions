@@ -1,0 +1,26 @@
+---
+title: Azure Monitor Logs reference - exceptions
+description: Reference for exceptions table in Azure Monitor Logs.
+ms.topic: reference
+ms.service: azure-monitor
+ms.subservice: logs
+ms.author: mabrizi
+author: mabrizi
+ms.date: 9/17/2020
+---
+
+# exceptions
+
+ 
+
+## Solutions
+
+- LogManagement
+
+
+
+
+## Columns
+
+|Column|Type|Description|
+|---|---|---|
